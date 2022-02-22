@@ -13,7 +13,7 @@
 ## Overview 
 - It is single page website
 - it is complete responsive
-- all images are hover
+- all images and cards are hover
 
 
 ## Demo
